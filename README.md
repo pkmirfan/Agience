@@ -38,7 +38,7 @@ Agience is designed to be accessible to everyone, from developers and hobbyists 
 
 Visit the [Agience Preview Instance](https://preview.agience.ai) to explore the platform and to start configuring agents.
 
-To see it in action, you will an Agience Host. The Host is a lightweight application that runs on your device and connects to the Authority. The vision of Agience is that there will be multiple Hosts available for different platforms and use cases.
+To see it in action, you will need an Agience Host. The Host is a lightweight application that runs on your device and connects to the Authority. The vision of Agience is that there will be multiple Hosts available for different platforms and use cases.
 
 **First, create a Host**
 - Go to Hosts.
